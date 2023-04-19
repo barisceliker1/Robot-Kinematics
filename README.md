@@ -12,4 +12,4 @@ This function help to calculate Velocity Kinematics of 2 axis robots.
  
 
 ## Homogenous Matrix
-A system of linear equations having matrix form AX = O, where O represents a zero column matrix, is called a homogeneous system.
+A system of linear equations having matrix form AX = O, where O represents a zero column matrix, is called a homogeneous system.In this project, rotation of homogeneous matrices was performed.
