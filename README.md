@@ -6,8 +6,8 @@ The Jacobian matrix is a matrix that composes the first-order partial derivative
 
 Robotic Manipülatör with 2 axis
 This function help to calculate Velocity Kinematics of 2 axis robots.
-![alt text](![alt text](http://url/to/img.png))
 
+![2axis](https://user-images.githubusercontent.com/36998513/233043637-d5b4c482-9cf0-45e6-b7f7-b90e9c909c93.png)
  
 
 Homogenous Matrix
