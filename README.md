@@ -18,3 +18,41 @@ A system of linear equations having matrix form AX = O, where O represents a zer
 
 ![turn](https://user-images.githubusercontent.com/36998513/233045775-6645e372-6bb7-4ec5-8554-61702a7706f5.png)
 
+
+## Contributing 
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+A detailed overview on how to contribute can be found in the contributing guide.
+
+  
+## Installation 
+
+Clone project
+
+```bash
+  git clone https://github.com/barisceliker1/Robot-Kinematics
+```
+
+
+
+
+  
+## Examples
+
+```python
+
+##Jacobian matrix
+
+from jacobian import jacobian
+
+print(jacobian(30,40,2,3))
+
+##Robotic Manipülatör by 2 axis
+
+from axis2 import axis2
+
+axis2(3,5,20,40,30,50)
+
+
+  
