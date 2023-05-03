@@ -44,13 +44,13 @@ A detailed overview on how to contribute can be found in the contributing guide.
 
 ##Jacobian matrix
 
-from jacobian import jacobian
+from axisCalculator import jacobian
 
 print(jacobian(30,40,2,3))
 
 ##Robotic Manipülatör by 2 axis
 
-from axis2 import axis2
+from axisCalculator import axis2
 
 axis2(3,5,20,40,30,50)
 
