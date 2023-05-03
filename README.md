@@ -28,10 +28,10 @@ A detailed overview on how to contribute can be found in the contributing guide.
   
 ## Installation 
 
-Clone project
+İnstall Python Module
 
 ```bash
-  git clone https://github.com/barisceliker1/Robot-Kinematics
+  pip install axisCalculator
 ```
 
 
